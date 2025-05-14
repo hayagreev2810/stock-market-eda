@@ -26,11 +26,7 @@ This project explores historical stock data and extracts key insights through da
 - **Volume Analysis**: Compared average trading volumes across companies.
 - **Time-Series Trends**: Plotted yearly average adjusted closing prices for selected companies (e.g., AAPL, MSFT).
 
-## 📌 Sample Visuals
 
-- 📊 Bar plots for average returns and volatility  
-- 🔥 Heatmap showing return correlations  
-- 📉 Time series plots for long-term trends
 
 
 The dataset includes fields:
