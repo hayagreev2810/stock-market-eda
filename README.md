@@ -38,9 +38,6 @@ The dataset includes fields:
 
 > The dataset was processed into ~25,000 rows across 10 stocks and ~2,500 trading days.
 
-## 🚀 Run the Notebook
 
-👉 [Open in Google Colab](https://colab.research.google.com/your-link-here)  
-*Make sure to upload `stockmarket.csv` to run the notebook.*
 
 
